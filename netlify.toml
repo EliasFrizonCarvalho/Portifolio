@@ -1,0 +1,9 @@
+[build]
+publish = "."
+
+[build.environment]
+
+[build.processing]
+
+[dev]
+  port = 8888
